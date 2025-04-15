@@ -2,7 +2,7 @@
 
 ![Tool Bestproxy Logo](https://raw.githubusercontent.com/nvd2710/BestNet-Logo/main/bestclone4.png)
 
-**Tool QUICK-CHECK-PROXY** là một ứng dụng mạnh mẽ để kiểm tra, chuyển đổi và quản lý proxy. Ứng dụng này đã được biên dịch thành file **EXE** nên bạn không cần cài đặt Python để chạy nó.
+**Tool QUICK-CHECK-PROXY** là một ứng dụng mạnh mẽ để kiểm tra, chuyển đổi và quản lý proxy. 
 
 ---
 
@@ -19,7 +19,7 @@
 ## ⚙️ Hướng Dẫn Sử Dụng
 
 1. **Tải về file EXE**  
-   File **EXE** đã được biên dịch để sử dụng trực tiếp trên Windows, không cần cài đặt Python.  
+   File ****[QUICK-CHECK-PROXY](https://github.com/nvd2710/Quick-Check-Proxy/releases/download/Quick-Check-Proxy/Quick-Check-Proxy.exe)****   
 
 2. **Chạy chương trình**  
    Nhấp đôi file **[QUICK-CHECK-PROXY](https://github.com/nvd2710/Quick-Check-Proxy/releases/download/Quick-Check-Proxy/Quick-Check-Proxy.exe)** để khởi chạy ứng dụng.
@@ -41,3 +41,4 @@ Cảm ơn bạn đã sử dụng **Tool Bestproxy**! 😄
 
 ---
 
+![image](https://github.com/user-attachments/assets/7642a2d9-0250-4d00-baf1-0a5e627e4aa2)
