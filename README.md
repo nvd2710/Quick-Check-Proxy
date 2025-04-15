@@ -22,7 +22,7 @@
    File **EXE** đã được biên dịch để sử dụng trực tiếp trên Windows, không cần cài đặt Python.  
 
 2. **Chạy chương trình**  
-   Nhấp đôi file **EXE** để khởi chạy ứng dụng.
+   Nhấp đôi file **[QUICK-CHECK-PROXY](https://github.com/nvd2710/Quick-Check-Proxy/releases/download/Quick-Check-Proxy/Quick-Check-Proxy.exe)** để khởi chạy ứng dụng.
 
 3. **Sử dụng giao diện**  
    - Nhập danh sách proxy theo định dạng mà bạn chọn.
@@ -41,4 +41,3 @@ Cảm ơn bạn đã sử dụng **Tool Bestproxy**! 😄
 
 ---
 
-![image](https://github.com/user-attachments/assets/f2562f7e-d8b2-44ea-9c94-d230ec64d924)
