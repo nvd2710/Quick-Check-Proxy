@@ -1,4 +1,5 @@
 Công cụ Quick-Check-Proxy là một công cụ Windows tiện ích cho việc kiểm tra, xác minh và xử lý proxy một cách nhanh chóng và hiệu quả. Công cụ được xây dựng với giao diện đồ họa thân thiện, cung cấp nhiều chức năng như:
+![image](https://github.com/user-attachments/assets/66913e71-03ed-45ec-bf5a-4595a0c706de)
 
 Kiểm tra Proxy Live: Cho phép kiểm tra nhanh các proxy có thể kết nối và các proxy không thể kết nối.
 Thông Tin Proxy Chi Tiết: Hiển thị thông tin chi tiết về địa chỉ IP, quốc gia, múi giờ, thành phố, nhà cung cấp dịch vụ và thời gian phản hồi.
