@@ -1,44 +1,57 @@
-# Tool QUICK-CHECK-PROXY 🚀
+# 🚀 Quick-Check-Proxy – Công cụ kiểm tra proxy nhanh chóng và mạnh mẽ!
 
-![Tool Bestproxy Logo](https://raw.githubusercontent.com/nvd2710/BestNet-Logo/main/bestclone4.png)
-
-**Tool QUICK-CHECK-PROXY** là một ứng dụng mạnh mẽ để kiểm tra proxy, chuyển đổi và quản lý proxy. 
+![proxy](https://img.shields.io/badge/Proxy-Checker-blue) ![python](https://img.shields.io/badge/Built%20with-Python-green) ![GUI](https://img.shields.io/badge/Interface-User%20Friendly-lightgrey)
 
 ---
 
-## 🔥 Tính Năng Nổi Bật
-
-- **Kiểm tra proxy live**: Tự động kiểm tra kết nối và phân loại proxy theo trạng thái.
-- **Chuyển đổi định dạng proxy**: Hỗ trợ nhiều định dạng phổ biến như `IP:PORT:USER:PASS`, `IP:PORT` và các định dạng khác.
-- **Xuất kết quả**: Xuất dữ liệu kiểm tra thành file **TXT** hoặc **Excel**.
-- **Công cụ xử lý chuỗi**: Tích hợp các chức năng tìm kiếm và thay thế, giúp bạn quản lý danh sách proxy hiệu quả.
-- **Bảo mật**: Hỗ trợ cài đặt **Root CA** cho môi trường an toàn (dành cho người dùng nâng cao).
+🔧 **Quick-Check-Proxy** là công cụ giúp bạn **kiểm tra hàng loạt proxy** cực kỳ nhanh chóng, hỗ trợ đa luồng, có giao diện người dùng trực quan, dễ thao tác – phù hợp cho mọi đối tượng từ người dùng cơ bản đến dân kỹ thuật chuyên sâu.
 
 ---
 
-## ⚙️ Hướng Dẫn Sử Dụng
+## ✨ Tính năng nổi bật
 
-1. **Tải về file EXE**  
-   File ****[QUICK-CHECK-PROXY](https://github.com/nvd2710/Quick-Check-Proxy/releases/download/Quick-Check-Proxy/Quick-Check-Proxy.exe)****   
-
-2. **Chạy chương trình**  
-   Nhấp đôi file **[QUICK-CHECK-PROXY](https://github.com/nvd2710/Quick-Check-Proxy/releases/download/Quick-Check-Proxy/Quick-Check-Proxy.exe)** để khởi chạy ứng dụng.
-
-3. **Sử dụng giao diện**  
-   - Nhập danh sách proxy theo định dạng mà bạn chọn.
-   - Dùng các nút **Kiểm tra** và **Kiểm tra chi tiết** để thực hiện việc kiểm tra.
-   - Xuất kết quả kiểm tra sang file TXT hoặc Excel theo ý bạn.
+- ✅ **Kiểm tra proxy HTTP/SOCKS5** – phát hiện proxy die/sống nhanh chóng  
+- ✅ **Giao diện đẹp** – dễ sử dụng, không cần dòng lệnh  
+- ✅ **Đa luồng (multithread)** – kiểm tra hàng trăm proxy cùng lúc    
+- ✅ **Xuất kết quả** ra file `.txt` hoặc `.xlsx`  
+- ✅ **Chạy dưới dạng .exe** không cần cài Python
 
 ---
 
-## 💬 Liên Hệ & Hỗ Trợ
+## 🖼️ Giao diện
 
-- **Trang web và Mua Proxy:** [Bestproxy.vn](https://bestproxy.vn)
-
----
-
-Cảm ơn bạn đã sử dụng **Tool Bestproxy**! 😄
+<img src="Quick-Check-Proxy.png" alt="Giao diện chính" width="700">
 
 ---
 
-![image](https://github.com/user-attachments/assets/7642a2d9-0250-4d00-baf1-0a5e627e4aa2)
+## 🔧 Cách sử dụng
+
+1. Tải file `.exe` trong phần [Releases](../../releases)
+2. Mở lên, nhập danh sách proxy dạng `ip:port:user:pass` hoặc `ip:port`
+3. Chọn số luồng kiểm tra
+4. Nhấn **Start Check**
+5. Copy kết quả hoặc lưu ra file
+
+---
+
+## 📦 Tải về
+
+➡️ [Tải file tại đây](../../releases) hoặc vào tab **Releases** ở GitHub
+
+---
+
+## 📬 Liên hệ & hỗ trợ
+
+- Website: [https://bestproxy.vn](https://bestproxy.vn)
+- Telegram: [https://t.me/bestproxyvn](https://t.me/bedaudone1)
+
+---
+
+## 💙 Đóng góp
+
+Nếu bạn thấy tool hữu ích, hãy ⭐ **star** repo này để mình có thêm động lực cập nhật nhé!  
+Bạn cũng có thể **fork**, mở `issue` hoặc `pull request` nếu muốn đóng góp thêm.
+
+---
+
+> 👨‍💻 Dự án bởi [BESTPROXY.VN](https://bestproxy.vn) – Hệ thống cung cấp Proxy dân cư & datacenter hàng đầu Việt Nam.
