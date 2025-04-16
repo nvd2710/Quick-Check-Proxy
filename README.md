@@ -15,7 +15,7 @@
 - ✅ **Giao diện đẹp** – dễ sử dụng, không cần dòng lệnh  
 - ✅ **Đa luồng (multithread)** – kiểm tra hàng trăm proxy cùng lúc    
 - ✅ **Xuất kết quả** ra file `.txt` hoặc `.xlsx`  
-- ✅ **Chạy dưới dạng .exe** không cần cài Python
+- ✅ **Chạy dưới dạng** `.exe` không cần cài Python
 
 ---
 
