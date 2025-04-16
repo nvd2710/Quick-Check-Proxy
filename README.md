@@ -10,7 +10,8 @@
 
 ## ✨ Tính năng nổi bật
 
-- ✅ **Kiểm tra proxy HTTP/SOCKS5** – phát hiện proxy die/sống nhanh chóng  
+- ✅ **Kiểm tra proxy HTTP/SOCKS5** – phát hiện proxy die/live nhanh chóng
+- ✅ **Nhiều định dạng** – Có thể kiểm tra nhiều định dạng proxy
 - ✅ **Giao diện đẹp** – dễ sử dụng, không cần dòng lệnh  
 - ✅ **Đa luồng (multithread)** – kiểm tra hàng trăm proxy cùng lúc    
 - ✅ **Xuất kết quả** ra file `.txt` hoặc `.xlsx`  
