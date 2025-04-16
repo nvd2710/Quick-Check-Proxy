@@ -36,7 +36,7 @@
 
 ## 📦 Tải về
 
-➡️ [Tải file tại đây]([../../releases](https://github.com/nvd2710/Quick-Check-Proxy/releases/download/Quick-Check-Proxy/Quick-Check-Proxy.exe)) hoặc vào tab **Releases** ở GitHub
+➡️ [Tải file tại đây]((https://github.com/nvd2710/Quick-Check-Proxy/releases/download/Quick-Check-Proxy/Quick-Check-Proxy.exe)) hoặc vào tab **Releases** ở GitHub
 
 ---
 
