@@ -36,14 +36,14 @@
 
 ## 📦 Tải về
 
-➡️ [Tải file tại đây](../../releases) hoặc vào tab **Releases** ở GitHub
+➡️ [Tải file tại đây]([../../releases](https://github.com/nvd2710/Quick-Check-Proxy/releases/download/Quick-Check-Proxy/Quick-Check-Proxy.exe)) hoặc vào tab **Releases** ở GitHub
 
 ---
 
 ## 📬 Liên hệ & hỗ trợ
 
 - Website: [https://bestproxy.vn](https://bestproxy.vn)
-- Telegram: [https://t.me/bestproxyvn](https://t.me/bedaudone1)
+- Telegram: [https://t.me/bedaudone1](https://t.me/bedaudone1)
 
 ---
 
