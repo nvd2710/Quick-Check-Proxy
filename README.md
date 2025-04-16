@@ -2,7 +2,7 @@
 
 ![Tool Bestproxy Logo](https://raw.githubusercontent.com/nvd2710/BestNet-Logo/main/bestclone4.png)
 
-**Tool QUICK-CHECK-PROXY** là một ứng dụng mạnh mẽ để kiểm tra, chuyển đổi và quản lý proxy. 
+**Tool QUICK-CHECK-PROXY** là một ứng dụng mạnh mẽ để kiểm tra proxy, chuyển đổi và quản lý proxy. 
 
 ---
 
